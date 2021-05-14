@@ -4,7 +4,7 @@
  - Jesus
  - Joan
  - Domingo
- - Beatriz
+ - Beatriz Seoane
 
 -----
 # Professor
